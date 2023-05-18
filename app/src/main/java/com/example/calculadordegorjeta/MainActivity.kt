@@ -45,8 +45,8 @@ class MainActivity : ComponentActivity() {
 
             }
         }
-            }
-        }
+    }
+}
 
 @Preview
 @Composable
